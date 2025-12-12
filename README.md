@@ -1,5 +1,3 @@
-📘 Churn Prediction Model — README
-
 📌 Project Overview
 This project builds a machine learning model to predict customer churn using the Churn Modelling Dataset.
 Customer churn refers to clients who stop using a company’s services.
