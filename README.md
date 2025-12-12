@@ -1,4 +1,5 @@
 📌 Project Overview
+
 This project builds a machine learning model to predict customer churn using the Churn Modelling Dataset.
 Customer churn refers to clients who stop using a company’s services.
 Accurately predicting churn helps businesses take proactive steps to retain customers and reduce revenue loss.
@@ -12,6 +13,7 @@ Model training and evaluation
 Final churn prediction using optimized ML models
 
 📂 Dataset Description
+
 The dataset used is typically structured as follows:
 Key Columns
 Column	Description
@@ -30,6 +32,7 @@ EstimatedSalary	Customer salary
 Exited	Target variable (1 = Churned, 0 = Stayed)
 
 📊 Project Workflow
+
 1️⃣ Data Preprocessing
 ✔ Removed unnecessary columns
 ✔ Handled missing values
@@ -72,6 +75,7 @@ Scikit-Learn
 XGBoost
 
 🚀 How to Use This Project
+
 Step 1 — Install Dependencies
 pip install -r requirements.txt
 Step 2 — Run the Notebook or Script
@@ -81,6 +85,7 @@ Example:
 model.predict([[creditscore, age, balance, num_of_products, ...]])
 
 📈 Output
+
 You will get:
 Predicted churn probability
 0 = Customer stays
@@ -89,13 +94,16 @@ This helps organizations make quick, informed decisions on customer retention.
 
 
 🤝 Contributing
+
 Pull requests are welcome.
 If you'd like to improve the model or add new features, feel free to clone and contribute.
 
 📜 License
+
 This project is open-source under the MIT License.
 
 📧 Contact
+
 For questions, collaborations, or professional inquiries, contact:
 Muhammad Abdulkareem
 Data Scientist / ML Engineer
